@@ -1,2 +1,3 @@
 # hello-world
-repository for Open Software Platform class
+Dayoung Lee, Computer Science and Engineering.
+Repository for Open Software Platform class.
