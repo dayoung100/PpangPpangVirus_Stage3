@@ -58,7 +58,7 @@
 ### 🔬새로운 목적지, 외계인의 연구소  
 다른 스테이지와는 다르게, Stage3에서 플레이어는 에너미를 처치함과 동시에 특정 지점으로 향해야합니다. 외계인의 연구소가 그것입니다.  
 연구소는 일종의 랜드마크입니다. 플레이어가 어느 위치에 있더라도 반짝이는 연구소의 위치를 확인하고 향할 수 있도록 되어있습니다.  
-연구소 내부에는 가림막이나 골목진 공간이 많습니다. 플레이어는 새로운 지형에서 새로운 플레이를 즐길 수 있습니다.
+연구소 내부에는 가림막이나 골목진 공간이 많습니다. 플레이어는 새로운 지형에서 새로운 플레이를 즐길 수 있습니다.  
 <img src="https://user-images.githubusercontent.com/53906423/177865337-c863f793-b21f-4a4d-a1d0-800b62284673.PNG" width="400" height="200"/>
 <img src="https://user-images.githubusercontent.com/53906423/177867704-4cbc3bf8-707b-48c4-99b7-763038fe0ccb.PNG" width="400" height="200"/>  
 에너미를 처치하며 연구소 안으로 향하세요. 그곳에서 바이러스에 대한 진상이 기다리고 있습니다.  
@@ -84,9 +84,8 @@ Stage3에서는 바이러스와 함께 새로운 에너미, 외계인이 추가 
 
 ### 👁‍🗨직관적인 인터페이스  
 팡팡 바이러스에서 주로 확인해야할 부분은 두 가지 입니다.  
-(총알 표시 이미지 추가)(HP바 이미지 추가)  
-<img src="https://user-images.githubusercontent.com/53906423/177872589-0d291b83-ed01-4dff-9e72-db53cd427feb.PNG" width="450" height="300"/>
-<img src="https://user-images.githubusercontent.com/53906423/177872769-01d7bb82-3f5b-4a66-9390-15a03122cbdc.PNG" width="450" height="300"/> 
+<img src="https://user-images.githubusercontent.com/53906423/177872589-0d291b83-ed01-4dff-9e72-db53cd427feb.PNG" width="400" height="250"/>
+<img src="https://user-images.githubusercontent.com/53906423/177872769-01d7bb82-3f5b-4a66-9390-15a03122cbdc.PNG" width="400" height="250"/> 
 |총|에너미의 HP바|
 |--|-------------|
 |플레이어의 오른손에 장비되어 있습니다. 총에 있는 화면을 통해 남은 총알의 수를 확인할 수 있으며, 재장전 중인지 아닌지 또한 확인할 수 있습니다.|에너미의 머리 위에 위치해 있습니다. 총에 맞을 때마다 차감되며, 남은 HP에 따라 HP바의 색이 변화하기 때문에 플레이어는 쉽게 에너미의 남은 HP를 확인할 수 있습니다.|
